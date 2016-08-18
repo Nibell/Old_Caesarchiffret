@@ -37,22 +37,21 @@ else {
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 	<head>
-	<title>Laboration 1</title>
-	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-	<link rev="start" href="./" title="Home Page" />
-	<link href="../../style.css" rel="stylesheet" type="text/css" />
-<style type="text/css" media="screen">
-#resultat {
-	color:#F00;
-	font-weight:bold;
-}
-</style>
-</head>
-
-</head>
+		<title>Laboration 1</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<link rev="start" href="./" title="Home Page" />
+		<link href="../../style.css" rel="stylesheet" type="text/css" />
+		<style type="text/css" media="screen">
+		#resultat {
+			color:#F00;
+			font-weight:bold;
+		}
+		</style>
+	</head>
+	
 	<body>
 		<h1>Laboration 1</h1>
 		<hr />
