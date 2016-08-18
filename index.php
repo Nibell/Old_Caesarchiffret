@@ -42,7 +42,6 @@ else {
 	<head>
 	<title>Laboration 1</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-	<link rev="made" href="mailto:william.jobe@hv.se" />
 	<link rev="start" href="./" title="Home Page" />
 	<link href="../../style.css" rel="stylesheet" type="text/css" />
 <style type="text/css" media="screen">
